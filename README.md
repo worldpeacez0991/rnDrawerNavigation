@@ -6,6 +6,7 @@ Files edited:
 2. App.tsx
 3. babel.config.js
 
+## Run on emulator
 > yarn android
 
 ## License
