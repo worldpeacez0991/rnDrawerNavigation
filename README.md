@@ -1,5 +1,6 @@
 ### React Native Drawer Navigation Example
-![Drawer_demo1A.jpeg](https://github.com/worldpeacez0991/rnDrawerNavigation/blob/0c1daeb7696eb3ca17e252adb192bed22dfc4b7d/Drawer_demo1A.jpeg)
+![Drawer_demo1A](https://github.com/worldpeacez0991/rnDrawerNavigation/blob/9e83166ce3d99e002e4d0da3b165d297544dea5d/Drawer_demo1A.jpg)
+![Drawer_demo1B](https://github.com/worldpeacez0991/rnDrawerNavigation/blob/9e83166ce3d99e002e4d0da3b165d297544dea5d/Drawer_demo1B.jpg)
 
 ## Installation
 Files edited:
