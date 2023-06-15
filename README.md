@@ -13,7 +13,7 @@ Files edited:
 
 ## License
 
-Reanimated library is licensed under [The MIT License](LICENSE).
+Library 'react-native-reanimated' is licensed under [The MIT License](LICENSE).
 
 ## Credits
-Regarding main project 'Reanimated library', please refer to 'https://github.com/software-mansion/react-native-reanimated'
+Regarding main project 'react-native-reanimated', please refer to 'https://github.com/software-mansion/react-native-reanimated'
