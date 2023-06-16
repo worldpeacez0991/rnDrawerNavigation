@@ -1,6 +1,5 @@
 ### React Native Drawer Navigation Example
-![Drawer_demo1A](Drawer_demo1A.jpg)
-![Drawer_demo1B](Drawer_demo1B.jpg)
+<img src="Drawer_demo.gif" height="500"/>
 
 ## Installation
 Files edited:
