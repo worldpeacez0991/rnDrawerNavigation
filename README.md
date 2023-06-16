@@ -3,11 +3,17 @@
 
 ## Installation
 Files edited:
-1. android\app\src\main\java\com\rnDrawerNavigation\MainActivity.java
-:8 import android.os.Bundle;  
-:13-:15 protected void onCreate(Bundle savedInstanceState) {
-    super.onCreate(null);
+1. android\app\src\main\java\com\rnDrawerNavigation\MainActivity.java  
+:8 
+```
+import android.os.Bundle;  
+```
+:13-:15 
+```
+protected void onCreate(Bundle savedInstanceState) {  
+    super.onCreate(null);  
   }  
+```
 
 2. babel.config.js  
 :3 plugins: ['react-native-reanimated/plugin']
