@@ -3,12 +3,12 @@
 
 ## Installation
 Files edited:
-1. android\app\src\main\java\com\rnDrawerNavigation\MainActivity.java
-Edited Line 8
+1. android\app\src\main\java\com\rnDrawerNavigation\MainActivity.java  
+Edited Line 8  
 ```
 import android.os.Bundle;  
 ```
-Edited Line 13 to 15
+Edited Line 13 to 15  
 ```
 protected void onCreate(Bundle savedInstanceState) {  
     super.onCreate(null);  
