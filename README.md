@@ -5,8 +5,8 @@
 Files edited:
 1. android\app\src\main\java\com\rnDrawerNavigation\MainActivity.java  
 :8 import android.os.Bundle;  
-:13 to :15
 ```
+:13 to :15
 protected void onCreate(Bundle savedInstanceState) {  
     super.onCreate(null);  
   }  
