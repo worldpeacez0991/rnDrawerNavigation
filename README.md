@@ -22,7 +22,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
 ## License
 
-Library 'react-native-reanimated' is licensed under [The MIT License](https://mit-license.org/).
+Library 'react-native-reanimated' is licensed under [The MIT License](https://mit-license.org/). 
 
 ## Credits
 Regarding main project 'react-native-reanimated', please refer to 'https://github.com/software-mansion/react-native-reanimated'
