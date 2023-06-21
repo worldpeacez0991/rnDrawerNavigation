@@ -1,6 +1,6 @@
 ### React Native Drawer Navigation Example
 
-https://github.com/worldpeacez0991/rnDrawerNavigation/assets/36908871/84622c8b-a1c8-41c4-b089-07b17ee29383
+https://github.com/worldpeacez0991/rnDrawerNavigation/assets/36908871/6115f8fa-d034-4fe8-b6e4-bb40fccb7027
 
 ## Installation
 Files edited:
