@@ -1,5 +1,6 @@
 ### React Native Drawer Navigation Example
-<video controls="" height="500" muted="" loop="" autoplay="">
+
+<video controls="" width="200" height="500" muted="" loop="" autoplay="">
 <source src="Drawer_demo.mp4" type="video/mp4">
 </video>
 
