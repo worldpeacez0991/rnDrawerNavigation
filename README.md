@@ -1,8 +1,6 @@
 ### React Native Drawer Navigation Example
 
-<video controls="" width="200" height="500" muted="" loop="" autoplay="">
-<source src="Drawer_demo.mp4" type="video/mp4">
-</video>
+https://github.com/worldpeacez0991/rnDrawerNavigation/assets/36908871/84622c8b-a1c8-41c4-b089-07b17ee29383
 
 ## Installation
 Files edited:
