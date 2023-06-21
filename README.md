@@ -1,5 +1,5 @@
 ### React Native Drawer Navigation Example
-<img src="Drawer_demo.gif" height="500"/>
+<img src="Drawer_demo.mp4" height="500"/>
 
 ## Installation
 Files edited:
